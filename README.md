@@ -4,7 +4,7 @@ Caja con sensor RFID
 
 ## Integrantes del equipo
 
-Raquel Clemente Bastante y Miguel Chen
+Raquel Clemente Bastante y Miguel Chen Zheng
 
 ## Objetivos del trabajo
 
